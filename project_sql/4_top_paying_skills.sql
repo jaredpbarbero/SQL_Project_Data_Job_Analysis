@@ -20,7 +20,7 @@ GROUP BY
     skills.skills
 ORDER BY
     salary_avg DESC
-LIMIT 25
+LIMIT 25;
 
 /*
 Insights/trends

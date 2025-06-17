@@ -19,4 +19,4 @@ GROUP BY
     skills.skills
 ORDER BY
     demand_count DESC
-LIMIT 5
+LIMIT 5;
